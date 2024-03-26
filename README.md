@@ -7,14 +7,5 @@
 
 ## Dependencies:
 
-#### Pandas  
-&nbsp; download with "pip install pandas"  
-
-#### category_encoders  
-&nbsp; download with "pip install category_encoders"
-
-#### matplotlib
-&nbsp; download with "pip install matplotlib"
-
-#### seaborn
-&nbsp; download with "pip install seaborn"
+#### Pandas, Matplotlib, Sklearn  
+&nbsp; All downloadable with pip
