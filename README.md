@@ -20,7 +20,7 @@
 
 1. Run `git clone https://github.com/makenahillman/on-time_voyager.git`
 1. If directory structure does not much above, add empty folders as needed
-1. Create and activate conda environment using `conda create --name <my_env> python=3.10`
+1. Create and activate conda environment using the terminal command `conda create --name <my_env> python=3.10`
 1. Activate conda environment: `conda activate <my_env>`
 1. Install dependencies from sub-project (data clean-up, model, or visualization): `pip install -r <dir_path>/requirements.txt`
 1. If working with data CSV files, download from Kaggle (links below) relevant files
